@@ -3,7 +3,7 @@ import unittest
 from customer_count import get_customer_ucount
 
 
-N_UNIQUE_CUSTOMERS = 203
+N_UNIQUE_CUSTOMERS = 312
 
 
 class TestSimilarItems(unittest.TestCase):
